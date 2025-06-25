@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Product Name | TM METHODS</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo">TM METHODS</h1>
+    <nav>
+      <ul>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#buy">Buy Now</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Boost Your Life With [Your Product Name]</h2>
+      <p>High-quality, affordable, and shipped worldwide!</p>
+      <a href="#buy" class="btn-primary">Shop Now</a>
+    </div>
+    <div class="hero-img">
+      <img src="https://via.placeholder.com/500" alt="Product Image"/>
+    </div>
+  </section>
+
+  <section id="features" class="features">
+    <h3>Why You'll Love It</h3>
+    <div class="feature-list">
+      <div class="feature-item">
+        <h4>🌍 Worldwide Shipping</h4>
+        <p>We deliver fast, no matter where you are.</p>
+      </div>
+      <div class="feature-item">
+        <h4>💸 Affordable Price</h4>
+        <p>Premium quality at a price you’ll love.</p>
+      </div>
+      <div class="feature-item">
+        <h4>🛡️ Quality Guarantee</h4>
+        <p>100% satisfaction or your money back.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="buy" class="buy-now">
+    <h3>Order Yours Now</h3>
+    <p>Just $29.99 – limited time offer!</p>
+    <a href="#" class="btn-primary">Buy Now</a>
+  </section>
+
+  <section id="contact" class="contact">
+    <h3>Get in Touch</h3>
+    <p>Questions? Reach us on <a href="mailto:hello@tmmethods.com">hello@tmmethods.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 TM METHODS. All rights reserved.</p>
+  </footer>
+</body>
+</html>
